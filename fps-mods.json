@@ -1,0 +1,51 @@
+{
+  "fabric": [
+    ["sodium", "Sodium"],
+    ["sodium-extra", "Sodium Extra"],
+    ["lithium", "Lithium"],
+    ["ferrite-core", "FerriteCore"],
+    ["entityculling", "Entity Culling"],
+    ["immediatelyfast", "ImmediatelyFast"],
+    ["modernfix", "ModernFix"],
+    ["krypton", "Krypton"],
+    ["c2me-fabric", "C2ME"],
+    ["moreculling", "More Culling"],
+    ["dynamic-fps", "Dynamic FPS"],
+    ["badoptimizations", "BadOptimizations"],
+    ["scalablelux", "ScalableLux"],
+    ["memoryleakfix", "Memory Leak Fix"],
+    ["ksyxis", "Ksyxis"]
+  ],
+  "neoforge": [
+    ["sodium", "Sodium"],
+    ["sodium-extra", "Sodium Extra"],
+    ["lithium", "Lithium"],
+    ["ferrite-core", "FerriteCore"],
+    ["entityculling", "Entity Culling"],
+    ["immediatelyfast", "ImmediatelyFast"],
+    ["modernfix", "ModernFix"],
+    ["moreculling", "More Culling"],
+    ["dynamic-fps", "Dynamic FPS"],
+    ["badoptimizations", "BadOptimizations"],
+    ["scalablelux", "ScalableLux"],
+    ["ksyxis", "Ksyxis"],
+    ["ai-improvements", "AI Improvements"],
+    ["krypton-fnp", "Krypton Reno"]
+  ],
+  "forge": [
+    ["embeddium", "Embeddium"],
+    ["rubidium-extra", "Embeddium Extra"],
+    ["ferrite-core", "FerriteCore"],
+    ["entityculling", "Entity Culling"],
+    ["immediatelyfast", "ImmediatelyFast"],
+    ["modernfix", "ModernFix"],
+    ["dynamic-fps", "Dynamic FPS"],
+    ["badoptimizations", "BadOptimizations"],
+    ["memoryleakfix", "Memory Leak Fix"],
+    ["radium", "Radium"],
+    ["ai-improvements", "AI Improvements"],
+    ["ksyxis", "Ksyxis"],
+    ["fastload", "Fastload"],
+    ["starlight-forge", "Starlight"]
+  ]
+}
